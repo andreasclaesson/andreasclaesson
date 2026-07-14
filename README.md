@@ -31,6 +31,4 @@ I am a **Full-Stack Developer** and future **Cybersecurity Specialist** who enjo
 ### GitHub Stats
 <div align="center">
 <img height="165" src="https://github-stats-extended.vercel.app/api?username=andreasclaesson&show_icons=true&theme=default&border_color=2EA043&hide_border=false" />
-
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=andreasclaesson&layout=compact&theme=default&border_color=2EA043&hide_border=false" />
 </div>
